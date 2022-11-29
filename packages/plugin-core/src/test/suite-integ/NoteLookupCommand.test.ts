@@ -62,7 +62,6 @@ import {
 } from "../../components/lookup/utils";
 import { CONFIG } from "../../constants";
 import { ExtensionProvider } from "../../ExtensionProvider";
-import { StateService } from "../../services/stateService";
 import { clipboard } from "../../utils";
 import { VSCodeUtils } from "../../vsCodeUtils";
 import { DendronExtension } from "../../workspace";
